@@ -2,7 +2,13 @@
 
 **LINK !!!** is an advanced, cross-platform autonomous ecosystem designed to coordinate, chain, and execute complex workflows through intelligent digital agents. Available natively across Web, Windows Desktop, and Android, the platform empowers users to deploy a personalized swarm of specialized agents capable of executing sophisticated tasks seamlessly across the cloud.
 
-🔗 **Access the Cloud Workspace:** [experts-woad.vercel.app](https://experts-woad.vercel.app)
+🌐 **Web Workspace:** [experts-woad.vercel.app](https://experts-woad.vercel.app)
+
+📥 **Direct Production Downloads:**
+* 🖥️ [Download Native Windows App (.exe)](https://github.com/bigiq/LINKApp/releases/latest/download/Link.!!!.Setup.exe)
+* 🤖 [Download Native Android App (.apk)](https://github.com/bigiq/LINKApp/releases/latest/download/Link.!!!.Setup.apk)
+
+
 
 ---
 
@@ -10,17 +16,17 @@
 
 The platform operates on a structured, top-down command hierarchy that ensures complex goals are broken down, optimized, and safely executed without constant human intervention.
 
-[ USER COMMAND ]
-                     │
-                     ▼
-           ┌──────────────────┐
-           │   The Manager    │◀───► [ The Advisor ]
-           └──────────────────┘      (Strategic Guardrails)
-                     │
-     ┌───────────────┼───────────────┐
-     ▼               ▼               ▼
-[ Agent A ]     [ Agent B ]     [ Agent C ]
-(LaTeX Specialist) (Data Analyst) (Asset Engine)
+                  [ USER COMMAND ]
+                         │
+                         ▼
+               ┌──────────────────┐
+               │   The Manager    │◀───► [ The Advisor ]
+               └──────────────────┘      (Strategic Guardrails)
+                         │
+         ┌───────────────┼───────────────┐
+         ▼               ▼               ▼
+   [ Agent A ]     [ Agent B ]     [ Agent C ]
+  (LaTeX Specialist) (Data Analyst) (Asset Engine)
 
 
 ### 👑 The Manager (Master Controller)
@@ -38,6 +44,11 @@ Operating parallel to the Master Controller, the **Advisor** provides real-time 
 ---
 
 ## 🚀 Key Capabilities & Core Architecture
+
+### 🔄 Omni-Channel Cloud Syncing
+Your workspace state is never tied to a single device. The Web Workspace, Windows `.exe`, and Android `.apk` are all perpetually tethered to the same real-time cloud database. 
+* Start a complex execution chain on your Desktop, monitor its progress on the Web, and receive the final processed files on your Android device. 
+* Changes made to agent skills, system prompts, or active groups on one platform are instantly reflected across all others.
 
 ### 🪐 Continuous Persistent Cloud Execution
 Unlike standard automation tools that rely on your local machine's active state, **LINK !!!** operates on a fully decoupled cloud execution layer. 
@@ -70,27 +81,14 @@ To witness the power of the Manager, Advisor, and Swarm dynamic, consider this c
 
 ---
 
-## 📱 Cross-Platform Ecosystem
+## 📦 Setup & Installation
 
-The workspace syncs instantly across three main endpoints:
-1. **Web Workspace ([experts-woad.vercel.app](https://experts-woad.vercel.app)):** The centralized cloud-hosted platform for real-time monitoring, broad configuration management, and visual command chaining.
-2. **Windows Desktop App:** A high-performance native desktop environment featuring specialized security containment, background tray minimizing, and quick-action global hotkeys.
-3. **Android Application:** A native, mobile-optimized experience with lightweight resource footprints and background service persistence to track and interact with your swarm on the go.
+### 🖥️ Windows Desktop
+1. Click the direct **Windows App** download link at the top of this page.
+2. Double-click the downloaded `Link !!! Setup.exe` file to execute the setup wizard.
+3. Launch the application via your secure Desktop or Start Menu shortcut.
 
----
-
-## 📦 Download & Installation
-
-The compiled production installers are hosted securely under the repository's official **Releases** page.
-
-### 🖥️ Windows Desktop Installation
-1. Navigate to the **Releases** section on the right side of this repository.
-2. Download the latest version of `Link !!! Setup.exe`.
-3. Double-click the file to execute the Windows installation wizard.
-4. Launch the application via your secure Desktop or Start Menu shortcut.
-
-### 🤖 Android Mobile Installation
-1. Navigate to the **Releases** section on your mobile browser.
-2. Download the official `Link !!! Setup.apk` asset.
-3. Ensure **"Install Unknown Apps"** permissions are toggled on in your device's security settings for your browser/file explorer.
-4. Tap the downloaded `.apk` file to install the application natively to your home screen drawer.
+### 🤖 Android Mobile
+1. Click the direct **Android App** download link at the top of this page from your mobile browser.
+2. Ensure **"Install Unknown Apps"** permissions are toggled on in your Android device's security settings for your browser or file manager.
+3. Tap the downloaded `Link !!! Setup.apk` file to install the application natively to your home screen drawer.
