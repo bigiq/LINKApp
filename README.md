@@ -93,4 +93,4 @@ To witness the power of the Manager, Advisor, and Swarm dynamic, consider this c
 ### 🤖 Android Mobile
 1. Click the direct **Android App** download link at the top of this page from your mobile browser.
 2. Ensure **"Install Unknown Apps"** permissions are toggled on in your Android device's security settings for your browser or file manager.
-3. Tap the downloaded `Link !!! Setup.apk` file to install the application natively to your home screen drawer.
+3. Tap the downloaded `Link !!!.apk` file to install the application natively to your home screen drawer.
