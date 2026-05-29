@@ -28,7 +28,7 @@ The platform operates on a structured, top-down command hierarchy that ensures c
          ┌───────────────┼───────────────┐
          ▼               ▼               ▼
    [ Agent A ]     [ Agent B ]     [ Agent C ]
-  (LaTeX Specialist) (Data Analyst) (Asset Engine)
+ 
 
 
 ### 👑 The Manager (Master Controller)
