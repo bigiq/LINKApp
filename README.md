@@ -5,8 +5,8 @@
 🌐 **Web Workspace:** [experts-woad.vercel.app](https://experts-woad.vercel.app)
 
 📥 **Direct Production Downloads:**
-* 🖥️ [Download Native Windows App (.exe)](https://github.com/bigiq/LINKApp/releases/latest/download/Link.!!!.Setup.exe)
-* 🤖 [Download Native Android App (.apk)](https://github.com/bigiq/LINKApp/releases/latest/download/Link.!!!.Setup.apk)
+* 🖥️ [Download Native Windows App (.exe)]([https://github.com/bigiq/LINKApp/releases/latest/download/Link.!!!.Setup.exe](https://github.com/bigiq/LINKApp/releases/tag/v1.0.0))
+* 🤖 [Download Native Android App (.apk)]([https://github.com/bigiq/LINKApp/releases/latest/download/Link.!!!.Setup.apk](https://github.com/bigiq/LINKApp/releases/tag/v1.0.0))
 
 
 
